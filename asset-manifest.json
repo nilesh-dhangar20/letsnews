@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/letsnews/static/css/main.598584b6.chunk.css",
+    "main.js": "/letsnews/static/js/main.547bb4a9.chunk.js",
+    "main.js.map": "/letsnews/static/js/main.547bb4a9.chunk.js.map",
+    "runtime-main.js": "/letsnews/static/js/runtime-main.bd1bbfb8.js",
+    "runtime-main.js.map": "/letsnews/static/js/runtime-main.bd1bbfb8.js.map",
+    "static/css/2.0f1110e3.chunk.css": "/letsnews/static/css/2.0f1110e3.chunk.css",
+    "static/js/2.bf8857cc.chunk.js": "/letsnews/static/js/2.bf8857cc.chunk.js",
+    "static/js/2.bf8857cc.chunk.js.map": "/letsnews/static/js/2.bf8857cc.chunk.js.map",
+    "static/js/3.3597499d.chunk.js": "/letsnews/static/js/3.3597499d.chunk.js",
+    "static/js/3.3597499d.chunk.js.map": "/letsnews/static/js/3.3597499d.chunk.js.map",
+    "index.html": "/letsnews/index.html",
+    "static/css/2.0f1110e3.chunk.css.map": "/letsnews/static/css/2.0f1110e3.chunk.css.map",
+    "static/css/main.598584b6.chunk.css.map": "/letsnews/static/css/main.598584b6.chunk.css.map",
+    "static/js/2.bf8857cc.chunk.js.LICENSE.txt": "/letsnews/static/js/2.bf8857cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd1bbfb8.js",
+    "static/css/2.0f1110e3.chunk.css",
+    "static/js/2.bf8857cc.chunk.js",
+    "static/css/main.598584b6.chunk.css",
+    "static/js/main.547bb4a9.chunk.js"
+  ]
+}
